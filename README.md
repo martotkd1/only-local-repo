@@ -2,4 +2,4 @@
 
 Adding more data locally!
 
-staging data
+release data
